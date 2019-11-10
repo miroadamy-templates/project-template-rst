@@ -6,18 +6,17 @@
 Welcome to first-notes's documentation!
 =======================================
 
+.. toctree:: 
+   :caption: Shiny New Project
+   :maxdepth: 2
+
 .. toctree::
    :caption: Tutorial
    :maxdepth: 2
-   :numbered:
 
    using-rst/tutorial
-
-.. toctree:: 
-   :caption: PDP Template documentation
-   :maxdepth: 2
-
    using-rst/pdp-template-rst
+
 
 
 Indices and tables
