@@ -3,21 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to first-notes's documentation!
-=======================================
+Table of Content
+================
 
 .. toctree:: 
    :caption: Shiny New Project
    :maxdepth: 2
-   
-   projectinfo
+
+   docs/projectinfo
 
 .. toctree::
    :caption: Tutorial
    :maxdepth: 2
 
-   using-rst/tutorial
-   using-rst/pdp-template-rst
+   docs/using-rst/tutorial
+   docs/using-rst/pdp-template-rst
 
 
 

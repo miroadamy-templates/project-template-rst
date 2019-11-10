@@ -7,9 +7,8 @@ pages:
   - pip install recommonmark sphinxcontrib-blockdiag sphinxcontrib-actdiag sphinxcontrib-excel-table 
   - pip install sphinxcontrib-nwdiag sphinxcontrib-plantuml sphinxcontrib-seqdiag sphinx_rtd_theme
   - apk --no-cache add make
-  - cd docs  
   - make html
-  - mv _build/html/ ../public/
+  - mv _build/html/ public/
   artifacts:
     paths:
     - public
