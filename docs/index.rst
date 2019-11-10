@@ -9,6 +9,8 @@ Welcome to first-notes's documentation!
 .. toctree:: 
    :caption: Shiny New Project
    :maxdepth: 2
+   
+   projectinfo
 
 .. toctree::
    :caption: Tutorial

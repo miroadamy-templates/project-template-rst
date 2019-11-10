@@ -1,6 +1,8 @@
 .. sectionauthor:: Le Yang <le.yang@leidoshealth.com>
 
 .. _pdp-template-rst:
+.. _pdp:
+.. _pdp-template-txt:
 
 ####################################
 Sample reStructuredText PDP Template
@@ -527,10 +529,3 @@ list`_.  The `Docutils project web site`_ has more information.
 .. _Docutils-users mailing list:
    http://docutils.sf.net/docs/user/mailing-lists.html#docutils-users
 
-
-References
-==========
-
-.. [1] PDP Purpose and Guidelines
-
-.. [2] Sample Plaintext PDP Template
