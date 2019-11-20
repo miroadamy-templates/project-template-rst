@@ -77,7 +77,7 @@ Docker start
 Docker cheatsheet
 -----------------
 
-.. code:: bash
+.. code:: 
 
     docker run --rm -it -v `pwd`/first-rst:/doc -e USER_ID=$UID ddidier/sphinx-doc:2.2.1-1 bash
     docker run --rm -it -v `pwd`/first-rst:/doc -e USER_ID=$UID ddidier/sphinx-doc:2.2.1-1 make html

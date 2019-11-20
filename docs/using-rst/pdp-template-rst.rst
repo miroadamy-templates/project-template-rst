@@ -73,7 +73,7 @@ directions below.
 
 - Change the Service header to the applicable service lie, or "All" if it does not apply to specific service line.
 
-- Change the Function and Type header to one of the functions described in :ref:`pdp-meta`.
+- Change the Function and Type header to one of the functions described in `pdp-meta`.
 
 - Now write your Abstract, Rationale, and other content for your PDP,
   replacing all this gobbledygook with your own text. Be sure to

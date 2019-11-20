@@ -8,7 +8,14 @@ Table of Content
 
 .. toctree:: 
    :caption: Shiny New Project
-   :maxdepth: 2
+   :maxdepth: 3
+
+   docs/projectinfo
+
+
+.. toctree:: 
+   :caption: Some Other Project
+   :maxdepth: 3
 
    docs/projectinfo
 
