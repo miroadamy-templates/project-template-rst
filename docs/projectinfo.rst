@@ -1,6 +1,6 @@
-*******************
-Project information
-*******************
+****************************
+Project information Level *
+****************************
 
 .. note:: Goal
    Quick definition what is the project about.
