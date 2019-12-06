@@ -11,6 +11,8 @@ Table of Content
    :maxdepth: 3
 
    docs/projectinfo
+   docs/main-level.md
+   docs/markdown-demo.md
 
 
 .. toctree:: 
