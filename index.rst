@@ -36,3 +36,11 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Published version: see https://miro-adamy.gitlab.io/project-template
+
+Generating content: see `./tools/aliases` and `./tools/generate-docs.sh`
+
+.. literalinclude:: tools/aliases
+
+.. literalinclude:: tools/generate-docs.sh
